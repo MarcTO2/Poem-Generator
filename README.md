@@ -5,15 +5,11 @@ This project aims to create a machine learning model that generates poems. The p
 ## Setup
 
 1. Clone the repo:
-    '''sh
-    git clone <repository-url>
-    cd poem-generator
-    '''
+    1. git clone <git@github.com:MarcTO2/Poem-Generator.git>
+    2. cd poem-generator
 
-2. Install dependencies:
-    '''sh
+3. Install dependencies:
     pip install -r requirements.txt
-    '''
 
 ## Usage
 
