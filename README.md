@@ -5,13 +5,13 @@ This project aims to create a machine learning model that generates poems. The p
 ## Setup
 
 1. Clone the repo:
-    '''sh
+   '''sh
     git clone <repository-url>
     cd poem-generator
-    '''
+   '''
 
-2. Install dependencies:
-    '''sh
+3. Install dependencies:
+   '''sh
     pip install -r requirements.txt
     '''
 
